@@ -7,28 +7,28 @@
 ## 功能介紹:
 ### 登入或註冊
 
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/login.jpg" width = "200" height = "350" alt="图片名称" align=center /> <img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/register.jpg" width = "200" height = "350" alt="图片名称" align=center /> 
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/login.jpg" width = "200" height = "350" alt="login" align=center /> <img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/register.jpg" width = "200" height = "350" alt="register" align=center /> 
 
 ### 底部導覽列(分為四種功能)
 
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/bottom.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/bottom.jpg" width = "600" alt="bottom" align=center />
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/first_page.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/first_page.jpg" width = "600" alt="first_page" align=center />
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/search.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/search.jpg" width = "600" alt="search." align=center />
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/recommend.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/recommend.jpg" width = "600" alt="recommend" align=center />
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/user_info.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/user_info.jpg" width = "600" alt="user_info" align=center />
 
 ### 店家資訊、評論功能、口袋名單
 店家資訊提供店家基本資料以及菜單，另外還有評論功能讓吃完的使用者可以評分供其他人參考，以及口袋名單讓使用者將喜愛的餐廳保存方便查找。
 <br>
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/info.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/info.jpg" width = "600" alt="info" align=center />
 <br>
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/comment.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/comment.jpg" width = "600" alt="comment" align=center />
 <br>
 <br>
-<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/pocket.jpg" width = "600" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/React_Native_Foodie/blob/main/img_folder/pocket.jpg" width = "600" alt="pocket" align=center />
