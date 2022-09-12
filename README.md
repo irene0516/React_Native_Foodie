@@ -1,7 +1,7 @@
 # React Native專題Foodie
 此專題為一個推薦使用者用餐餐廳的APP，藉由這個APP幫助使用者選擇滿意的餐廳，解決不知該吃什麼的煩惱。主要使用的技術有:
 * JavaScript
-* React-Native
+* React Native
 * Mysql
 
 ## 功能介紹:
